@@ -11,7 +11,7 @@ void main()
 
     for (int i = 0; i < 256; i++)
     {
-        printf("%d\n", (unsigned char) elementos[i]);
+        printf("%c\n", (unsigned char) elementos[i]);
     }
 
     printf("Criado por Marcelo Mendes");
